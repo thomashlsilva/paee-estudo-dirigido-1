@@ -32,10 +32,10 @@ O notebook tem como objetivo ilustrar e validar, de forma prática, o conceito d
 Para executar este notebook:
 
 1. Instale o kernel de R para Jupyter (`IRkernel`):
-   ```r
+    ```r
    install.packages("IRkernel")
    IRkernel::installspec()
-````
+    ```
 
 2. Execute no Jupyter Notebook.
 3. Certifique-se de ter os pacotes padrão do R instalados.
